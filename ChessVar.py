@@ -1,4 +1,4 @@
-# Author: Gilbert (Alex) Keithline
+# Author: -Redacted-
 # GitHub username: GAKeithline
 # Date: 12/06/2023
 # Description: Program introduces a class, ChessVar, that allows users to play a modified version of chess that features
